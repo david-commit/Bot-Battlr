@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Bot-Battlr/static/css/main.224e7bb7.chunk.css",
+    "main.js": "/Bot-Battlr/static/js/main.1d38d995.chunk.js",
+    "main.js.map": "/Bot-Battlr/static/js/main.1d38d995.chunk.js.map",
+    "runtime-main.js": "/Bot-Battlr/static/js/runtime-main.76d9012a.js",
+    "runtime-main.js.map": "/Bot-Battlr/static/js/runtime-main.76d9012a.js.map",
+    "static/js/2.be4760f2.chunk.js": "/Bot-Battlr/static/js/2.be4760f2.chunk.js",
+    "static/js/2.be4760f2.chunk.js.map": "/Bot-Battlr/static/js/2.be4760f2.chunk.js.map",
+    "index.html": "/Bot-Battlr/index.html",
+    "static/css/main.224e7bb7.chunk.css.map": "/Bot-Battlr/static/css/main.224e7bb7.chunk.css.map",
+    "static/js/2.be4760f2.chunk.js.LICENSE.txt": "/Bot-Battlr/static/js/2.be4760f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76d9012a.js",
+    "static/js/2.be4760f2.chunk.js",
+    "static/css/main.224e7bb7.chunk.css",
+    "static/js/main.1d38d995.chunk.js"
+  ]
+}
